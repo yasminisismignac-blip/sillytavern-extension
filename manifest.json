@@ -1,0 +1,13 @@
+{
+  "display_name": "ST Helper Panel",
+  "loading_order": 110,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Yasmin Isis",
+  "version": "1.0.0",
+  "description": "Minimal floating helper panel for SillyTavern.",
+  "homePage": "https://github.com/yasminisismignac-blip/sillytavern-extension",
+  "auto_update": false
+}
